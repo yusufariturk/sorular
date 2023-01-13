@@ -11,10 +11,12 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-      
+        // Do any additional setup after loading the view.
+        
+        print ("merhaba dünya")
+        print("akhlaskdjal")
     }
 
 //mdcdslmcsş
 }
 
-//lfkdsşkşs
